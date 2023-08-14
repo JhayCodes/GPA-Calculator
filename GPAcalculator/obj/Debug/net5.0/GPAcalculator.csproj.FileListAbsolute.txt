@@ -1,0 +1,48 @@
+C:\Users\jayuc\Desktop\Program practice\c#\GPAcalculator\GPAcalculator\bin\Debug\net5.0\GPAcalculator.exe
+C:\Users\jayuc\Desktop\Program practice\c#\GPAcalculator\GPAcalculator\bin\Debug\net5.0\GPAcalculator.deps.json
+C:\Users\jayuc\Desktop\Program practice\c#\GPAcalculator\GPAcalculator\bin\Debug\net5.0\GPAcalculator.runtimeconfig.json
+C:\Users\jayuc\Desktop\Program practice\c#\GPAcalculator\GPAcalculator\bin\Debug\net5.0\GPAcalculator.runtimeconfig.dev.json
+C:\Users\jayuc\Desktop\Program practice\c#\GPAcalculator\GPAcalculator\bin\Debug\net5.0\GPAcalculator.dll
+C:\Users\jayuc\Desktop\Program practice\c#\GPAcalculator\GPAcalculator\bin\Debug\net5.0\ref\GPAcalculator.dll
+C:\Users\jayuc\Desktop\Program practice\c#\GPAcalculator\GPAcalculator\bin\Debug\net5.0\GPAcalculator.pdb
+C:\Users\jayuc\Desktop\Program practice\c#\GPAcalculator\GPAcalculator\obj\Debug\net5.0\GPAcalculator.csproj.AssemblyReference.cache
+C:\Users\jayuc\Desktop\Program practice\c#\GPAcalculator\GPAcalculator\obj\Debug\net5.0\GPAcalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayuc\Desktop\Program practice\c#\GPAcalculator\GPAcalculator\obj\Debug\net5.0\GPAcalculator.AssemblyInfoInputs.cache
+C:\Users\jayuc\Desktop\Program practice\c#\GPAcalculator\GPAcalculator\obj\Debug\net5.0\GPAcalculator.AssemblyInfo.cs
+C:\Users\jayuc\Desktop\Program practice\c#\GPAcalculator\GPAcalculator\obj\Debug\net5.0\GPAcalculator.csproj.CoreCompileInputs.cache
+C:\Users\jayuc\Desktop\Program practice\c#\GPAcalculator\GPAcalculator\obj\Debug\net5.0\GPAcalculator.dll
+C:\Users\jayuc\Desktop\Program practice\c#\GPAcalculator\GPAcalculator\obj\Debug\net5.0\ref\GPAcalculator.dll
+C:\Users\jayuc\Desktop\Program practice\c#\GPAcalculator\GPAcalculator\obj\Debug\net5.0\GPAcalculator.pdb
+C:\Users\jayuc\Desktop\Program practice\c#\GPAcalculator\GPAcalculator\obj\Debug\net5.0\GPAcalculator.genruntimeconfig.cache
+D:\Program practice\Old c#\GPAcalculator\GPAcalculator\bin\Debug\net5.0\GPAcalculator.exe
+D:\Program practice\Old c#\GPAcalculator\GPAcalculator\bin\Debug\net5.0\GPAcalculator.deps.json
+D:\Program practice\Old c#\GPAcalculator\GPAcalculator\bin\Debug\net5.0\GPAcalculator.runtimeconfig.json
+D:\Program practice\Old c#\GPAcalculator\GPAcalculator\bin\Debug\net5.0\GPAcalculator.runtimeconfig.dev.json
+D:\Program practice\Old c#\GPAcalculator\GPAcalculator\bin\Debug\net5.0\GPAcalculator.dll
+D:\Program practice\Old c#\GPAcalculator\GPAcalculator\bin\Debug\net5.0\GPAcalculator.pdb
+D:\Program practice\Old c#\GPAcalculator\GPAcalculator\obj\Debug\net5.0\GPAcalculator.csproj.AssemblyReference.cache
+D:\Program practice\Old c#\GPAcalculator\GPAcalculator\obj\Debug\net5.0\GPAcalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program practice\Old c#\GPAcalculator\GPAcalculator\obj\Debug\net5.0\GPAcalculator.AssemblyInfoInputs.cache
+D:\Program practice\Old c#\GPAcalculator\GPAcalculator\obj\Debug\net5.0\GPAcalculator.AssemblyInfo.cs
+D:\Program practice\Old c#\GPAcalculator\GPAcalculator\obj\Debug\net5.0\GPAcalculator.csproj.CoreCompileInputs.cache
+D:\Program practice\Old c#\GPAcalculator\GPAcalculator\obj\Debug\net5.0\GPAcalculator.dll
+D:\Program practice\Old c#\GPAcalculator\GPAcalculator\obj\Debug\net5.0\refint\GPAcalculator.dll
+D:\Program practice\Old c#\GPAcalculator\GPAcalculator\obj\Debug\net5.0\GPAcalculator.pdb
+D:\Program practice\Old c#\GPAcalculator\GPAcalculator\obj\Debug\net5.0\GPAcalculator.genruntimeconfig.cache
+D:\Program practice\Old c#\GPAcalculator\GPAcalculator\obj\Debug\net5.0\ref\GPAcalculator.dll
+D:\ProgramPractice\Old c#\GPAcalculator\GPAcalculator\bin\Debug\net5.0\GPAcalculator.exe
+D:\ProgramPractice\Old c#\GPAcalculator\GPAcalculator\bin\Debug\net5.0\GPAcalculator.deps.json
+D:\ProgramPractice\Old c#\GPAcalculator\GPAcalculator\bin\Debug\net5.0\GPAcalculator.runtimeconfig.json
+D:\ProgramPractice\Old c#\GPAcalculator\GPAcalculator\bin\Debug\net5.0\GPAcalculator.runtimeconfig.dev.json
+D:\ProgramPractice\Old c#\GPAcalculator\GPAcalculator\bin\Debug\net5.0\GPAcalculator.dll
+D:\ProgramPractice\Old c#\GPAcalculator\GPAcalculator\bin\Debug\net5.0\GPAcalculator.pdb
+D:\ProgramPractice\Old c#\GPAcalculator\GPAcalculator\obj\Debug\net5.0\GPAcalculator.csproj.AssemblyReference.cache
+D:\ProgramPractice\Old c#\GPAcalculator\GPAcalculator\obj\Debug\net5.0\GPAcalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramPractice\Old c#\GPAcalculator\GPAcalculator\obj\Debug\net5.0\GPAcalculator.AssemblyInfoInputs.cache
+D:\ProgramPractice\Old c#\GPAcalculator\GPAcalculator\obj\Debug\net5.0\GPAcalculator.AssemblyInfo.cs
+D:\ProgramPractice\Old c#\GPAcalculator\GPAcalculator\obj\Debug\net5.0\GPAcalculator.csproj.CoreCompileInputs.cache
+D:\ProgramPractice\Old c#\GPAcalculator\GPAcalculator\obj\Debug\net5.0\GPAcalculator.dll
+D:\ProgramPractice\Old c#\GPAcalculator\GPAcalculator\obj\Debug\net5.0\refint\GPAcalculator.dll
+D:\ProgramPractice\Old c#\GPAcalculator\GPAcalculator\obj\Debug\net5.0\GPAcalculator.pdb
+D:\ProgramPractice\Old c#\GPAcalculator\GPAcalculator\obj\Debug\net5.0\GPAcalculator.genruntimeconfig.cache
+D:\ProgramPractice\Old c#\GPAcalculator\GPAcalculator\obj\Debug\net5.0\ref\GPAcalculator.dll
